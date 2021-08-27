@@ -1,1 +1,1 @@
-# Project_my-quiz-game
+# sample_quiz
